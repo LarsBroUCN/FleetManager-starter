@@ -15,6 +15,7 @@ namespace FleetManager.DataAccessLayerTests
         [TestInitialize]
         public void InitializeTest()
         {
+            //
             Database.Version.Upgrade(_connectionString);
         }
 
