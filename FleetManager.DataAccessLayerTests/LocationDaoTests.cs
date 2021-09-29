@@ -1,5 +1,5 @@
 ﻿using FleetManager.DataAccessLayer;
-using FleetManager.Model;
+using FleetManager.Entities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
