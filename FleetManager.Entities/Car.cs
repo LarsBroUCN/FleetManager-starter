@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace FleetManager.Model
+namespace FleetManager.Entities
 {
-    public class Car : BaseModel
+    public class Car : EntityBase
     {
         public string Brand { get; set; }
         public int Mileage { get; set; }

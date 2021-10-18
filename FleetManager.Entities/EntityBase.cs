@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FleetManager.Model
+namespace FleetManager.Entities
 {
-    public class Location : BaseModel
+    public abstract class EntityBase
     {
-        public string Name { get; set; }
+        public int? Id { get; set; }
     }
 }

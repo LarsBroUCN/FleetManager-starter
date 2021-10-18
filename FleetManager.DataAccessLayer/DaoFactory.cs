@@ -1,6 +1,5 @@
 ﻿using FleetManager.DataAccessLayer.Daos;
-using FleetManager.Model;
-using System;
+using FleetManager.Entities;
 
 namespace FleetManager.DataAccessLayer
 {

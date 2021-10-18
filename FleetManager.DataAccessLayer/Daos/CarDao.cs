@@ -1,5 +1,5 @@
 ﻿using Dapper;
-using FleetManager.Model;
+using FleetManager.Entities;
 using System;
 using System.Collections.Generic;
 

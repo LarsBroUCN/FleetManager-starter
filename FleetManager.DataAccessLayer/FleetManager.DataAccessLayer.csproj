@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FleetManager.Model\FleetManager.Model.csproj" />
+    <ProjectReference Include="..\FleetManager.Entities\FleetManager.Entities.csproj" />
   </ItemGroup>
 
 </Project>
